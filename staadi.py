@@ -1,6 +1,9 @@
 import os
 os.system("cls")
 print("\n")
+import os
+os.system("cls")
+print("\n")
 dārzeņu_cenas = {
     'tomāti': 0.11,
     'kāposts': 0.09,
